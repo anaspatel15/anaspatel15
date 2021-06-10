@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @anaspatel15
 - 👀 I’m interested in UI/UX Designing.
-- 🌱 I’m currently pursuing BSc (Hons) Computer Science, at Heriot Watt University, Dubai, UAE. 
+- 🖌️ I prefer working on the design aspect of the interfaces rather than the coding/implementing aspect.
+- 🌱 I’m currently pursuing BSc (Hons) Computer Science, at Heriot Watt University, Dubai, UAE.
 - 💞️ I’m looking to collaborate on projects that involve designing UIs for apps and websites.
 - 📫 How to reach me - anasp4321@gmail.com!!
 
